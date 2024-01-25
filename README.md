@@ -8,3 +8,7 @@
 abidroid/abidroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h2>Connect with me</h2>
+- [YouTube](https://www.youtube.com/intellilogics)
+- [Facebook](https://www.facebook.com/abid93)
+- [GitHub](https://github.com/abidroid)
