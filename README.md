@@ -9,6 +9,8 @@ abidroid/abidroid is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h2>Connect with me</h2>
-- [YouTube](https://www.youtube.com/intellilogics)
-- [Facebook](https://www.facebook.com/abid93)
-- [GitHub](https://github.com/abidroid)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/intellilogics)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/muhammad.abid3)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/abidroid)
+
+
